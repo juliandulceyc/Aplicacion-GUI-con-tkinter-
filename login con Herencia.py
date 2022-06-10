@@ -15,7 +15,7 @@ class Login(tk.Tk):
         # Creamos los componentes
         self._crear_componentes()
 
-    # Definir el método crrear_componentes
+    # Definir el método crear_componentes
     def _crear_componentes(self):
         #Usuario 
         etiqueta1 = tk.Label(self, text='Usuario:')
